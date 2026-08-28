@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "survivalworld-dRNF.aternos.me",
-    "port": 44019,
+    "ip": "MpaypalVSTapinha.aternos.me:49711",
+    "port": 49711,
     "version": "",
     "try-creative": false
   },
